@@ -1,0 +1,52 @@
+#contain
+{
+	background: #eaf0f9 ;
+}
+
+.heading
+{
+	padding: 10px; 
+	text-align: center; 
+	background: #bad4ff ;
+}
+
+.form
+{
+	border: 2px solid #6d8782;
+	border-radius: 20px; 
+	padding-top: 20px; 
+	padding-bottom: 20px; 
+	margin-left: 275px; 
+	margin-right: 275px;
+}
+
+.well-div
+{
+	margin-left: 95px; 
+	margin-right: 150px; 
+	font-size: 17px;
+	text-align: center;
+}
+
+.footer
+{
+	border-radius: 10px; 
+	background: #bad4ff ;
+}
+
+body h2,h4
+{
+	color: #002b80;
+}
+
+.jumbotron p
+{
+	color: #006600;
+}
+
+.footer p
+{
+	color: #002b80 ; 
+	font-size: 17px ;
+	text-align: center;
+}
