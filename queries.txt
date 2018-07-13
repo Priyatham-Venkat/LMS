@@ -1,0 +1,2 @@
+create table scl (appno int(10) NOT NULL AUTO_INCREMENT PRIMARY KEY, uid varchar(20), uname varchar(30), fdate date, tdate date, purpose varchar(100), file varchar(100), absphone int(10), absaddr varchar(200), c1 varchar(100), c2 varchar(100), c3 varchar(100), c4 varchar(100));
+
