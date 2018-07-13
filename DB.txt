@@ -1,0 +1,22 @@
+DB
+
+Leave applications :
+CL 
+SCL
+ML
+RHL
+EL 
+
+Adding Department in 
+1) users
+2) al
+3) All leave tables
+
+Users table : 
+1) Encrypt Password
+2) Add Dept field -> Dept in session variable
+
+Adding cancellations (?) 
+-> Either delete the row
+-> New column leavestatus : active or cancelled 
+
