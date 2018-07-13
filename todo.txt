@@ -1,0 +1,59 @@
+1) Migrate to external CSS 
+3) Ajax based catalogue (for leave history)
+5) Forgot password
+6) Date Validation EVERYWHRE
+
+3rd feb:
+1) Remove approvals DONE
+2) Add Apply 
+3) HOD portal DONE
+4) Admin page outline
+
+9th feb:
+1) all application forms
+2) tables and entries
+3) Show details Summary page
+
+
+PHASE 1 (DEVELOP) {20th}
+{
+	Application forms DONE
+	Databases - Uploads DONE
+	check ML 
+	Complete DB design DONE
+	Summary page : no of leaves DONE
+	Generation of Acknowledgement 
+	cancellation of applied leave -> Ask Mentor 
+	Adding Department in DB DONE
+	pending statuses change in DB DONE 	
+}
+
+PHASE 2 (VALIDATE) {Before Holi} 
+{
+	finding intervals and updation in DB
+	validation of forms
+	checking available leaves before apply
+	application rules : EL + CL (so on)
+}
+
+PHASE 3 (DEVELOP ADMIN) {During Holidays}
+{
+	admin page
+	all valdiations
+	EL adding column
+	fetch all details
+}
+
+PHASE 4 (TESTING AND ADDITIONAL CHANGES) 
+{
+	Security testing
+	Validation and Verification testings
+	Data testing 
+}
+
+
+
+1) Dates validation and Submission
+2) Generation of Reports - Confirmation 
+3) Forgot password -> Mail configure : SMTP / PHPmailer
+4) Admin page
