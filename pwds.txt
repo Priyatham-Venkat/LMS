@@ -1,0 +1,3 @@
+hod.it@nitrr.ac.in : hod
+faculty.it@nitrr.ac.in : faculty
+admin@lms : admin
